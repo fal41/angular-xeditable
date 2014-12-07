@@ -87,13 +87,13 @@
   display: none !important;
 }
 
-.editable-click,
+/*.editable-click,
 a.editable-click {
   text-decoration: none;
   color: #428bca;
   border-bottom: dashed 1px #428bca;
 }
-
+*/
 .editable-click:hover, 
 a.editable-click:hover {
   text-decoration: none;
